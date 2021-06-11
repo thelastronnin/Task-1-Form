@@ -1,6 +1,6 @@
-Dependencies
+# Dependencies
 
-npx install create-react-app
+npx install create-react-app / clone repository
 
 npm install react-router-dom
 
